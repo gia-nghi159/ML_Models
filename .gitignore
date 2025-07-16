@@ -1,0 +1,48 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook metadata
+*.nbconvert.ipynb
+
+# Hidden system files
+.DS_Store
+Thumbs.db
+
+# Virtual environment folders (common names)
+env/
+venv/
+.venv/
+
+# VSCode settings (if you use VSCode)
+.vscode/
+
+# Jupyter runtime and config files
+~/.jupyter/
+~/.ipython/
+
+# Log and database files
+*.log
+*.sqlite3
+
+# Output files (optional, depending on your use case)
+*.csv
+*.tsv
+*.h5
+*.hdf5
+*.parquet
+*.feather
+*.pkl
+*.joblib
+*.npy
+*.npz
+
+# Environment config files
+.env
+*.env
+
+
